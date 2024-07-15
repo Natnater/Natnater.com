@@ -1,15 +1,9 @@
 baseURL = 'https://natnater.com/'
 languageCode = 'en-us'
-
+title = "Natnater"
 theme = "hugo-theme-moments"
-
-paginate = 10
-paginatePath = '.'
-
 [params]
-    title = "Natnater"
-    signature = "When you're here, you're here."
-    cover = "https://cdn.pixabay.com/photo/2017/08/06/20/09/electricity-2595842_960_720.jpg"
+  subtitle = 'When you're here, you're here.'
+  [params.contact]
+    email = 'njdevender+blog@gmail.com'
 
-    name = "Natnater"
-    avatar = "/img/default_avatar.png"	
