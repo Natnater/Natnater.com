@@ -1,4 +1,4 @@
 baseURL = 'https://natnater.com/'
 languageCode = 'en-us'
-title = "Natnater's Blog"
+title = "Natnater"
 theme = "beautifulhugo"
