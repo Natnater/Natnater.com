@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "Natnater"
 theme = "lowkey"
 [params]
-  subtitle = 'When you're here, you're here.'
+  subtitle = "When you're here, you're here."
   [params.contact]
     email = 'njdevender+blog@gmail.com'
 
