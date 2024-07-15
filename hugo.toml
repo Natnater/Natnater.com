@@ -1,9 +1,0 @@
-baseURL = 'https://natnater.com/'
-languageCode = 'en-us'
-title = "Natnater"
-theme = "Lowkey"
-[params]
-  subtitle = "When you're here, you're here."
-  [params.contact]
-    email = 'njdevender+blog@gmail.com'
-
