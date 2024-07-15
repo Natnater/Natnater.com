@@ -1,7 +1,7 @@
 baseURL = 'https://natnater.com/'
 languageCode = 'en-us'
 title = "Natnater"
-theme = "lowkey"
+theme = "Lowkey"
 [params]
   subtitle = "When you're here, you're here."
   [params.contact]
