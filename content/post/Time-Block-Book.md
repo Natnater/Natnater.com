@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:       "Time Block Book"
 subtitle:    "An organizational strategy"
 description: "Documenting my creation of a notebook that helps me stay organized at work."
