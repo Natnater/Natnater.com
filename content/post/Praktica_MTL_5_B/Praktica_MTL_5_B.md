@@ -74,7 +74,7 @@ All-in-all, I think I struck gold.  As I've tested the camera, I can officially 
 ## 99% Mechanical?
 Earlier I mentioned this camera was 99% mechanical.  There *is* one electrical element, in the form of a light meter.  Honestly, this light meter is one of the main reasons I chose this camera in the first place.  As I've stated before, I am *nowhere near* being considered a "film aficionado."  Hell, when I was helping my Norwegian friend set up her Duaflex, and the film got stuck, I (like a novice) suggested opening the camera to check on the film.  I was met with blank "are you dumb" stares and realized that yes, I am dumb.  Well, when it comes to film, anyway.  I'm not stupid -- I'm specialized.
 
-Anyway.
+Anyway.  The point is, I need help.  With light exposure.  Not my brain.
 
 When you look through the viewfinder (not rangefinder -- this is an SLR camera), on the right of the... screen? ...there is a little black line.  At first I thought it was a piece of plastic that had fallen in the way of the viewfinder.  In reality, that little line of black plastic is the light meter.  Above the "take picture" button on the camera is a little lever that allows you to slowly and deliberately close the aperture on the camera.  As you do this, the light meter does some cool Wheatstone Bridge electronics, determines the strength of the light, and moves the little black line up the side of the viewfinder if it's bright, or down the side of the viewfinder if it's dark.  On the side is a little notch that you want to get the line to sit in, and you can do this by either adjusting the aperture stop or the shutter speed.
 
