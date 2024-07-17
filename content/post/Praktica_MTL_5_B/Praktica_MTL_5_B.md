@@ -17,14 +17,23 @@ A while back, a couple of friends from Norway visited us here stateside.  I took
 I had always considered myself an amateur photographer (and by this I mean someone who likes to do more than just take pictures with a phone, though I do quite love the cameras on my S22 Ultra -- main reason I bought the thing), but seeing her shoot film, and seeing the results, really tickled some part of me deep within my brain -- the part of me that prefers synthesizers over MIDI controllers, Computer Engineering over Computer Science, VHS over Vimeo, and (apparently) film over digital photography.  So I went to a nearby antique mall, where I ended up finding dozens of these Duaflex-esque cameras, and mulled over an idea in my head.  Here's a dramatic recreation of the conversation I had with myself, through which the ideas mulled:
 
 Nate 1: *"Why not?  Why shouldn't I get one?"*
+
 Nate 2: *"You don't even know if these cameras are in good condition."*
+
 Nate 1: "*So?  I can clean them, fix them.  I **am** an engineer, after all!*"
+
 Nate 2: "*Yes, but only barely -- you only graduated a few months ago, recall.*"
+
 Nate 1: "*It still counts.  And anyway, that just means that I deserve a graduation present from myself.  You know, for all my hard work.*"
+
 Nate 2: "*That's what you said about the bottle of Amaro Montenegro you bought yourself.  And the Amaro Nonino.  And the Pistachio Cream.  And --*"
+
 Nate 1: "*OK, yes, I see your point.  But my wife noticed my interest in the cameras and she said that she wanted to purchase me one, for Father's Day.*"
+
 Nate 2: "*You know you feel bad when people spend money on you.*"
+
 Nate 1: "*Exactly -- I can purchase one myself, and save her the hassle.  Then I'll still have the camera.*"
+
 Nate 2: "*That...  I think that makes sense.  Sure.*"
 
 Something like that, I think. I wasn't really paying attention to the conversation.
