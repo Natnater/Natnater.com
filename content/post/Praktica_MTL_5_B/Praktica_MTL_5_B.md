@@ -5,7 +5,7 @@ subtitle:    "A Foray into Film"
 description: "In Which I Acquire a Taste for Film Photography"
 date:        2024-07-17
 author:      "Nate"
-image:       "/static/MTL5B_Post/Example1.jpg"
+image:       "/post/Praktica_MTL_5_B/MTL5B_Post/Example1.jpg"
 tags:        ["Photography", "Film", "Camera", "Art", "MTL 5 B"]
 categories:  ["Tech", "Art" ]
 ---
@@ -36,11 +36,11 @@ And so I ended up with a...
 ## Praktica MTL 5 B
 Let me make this clear, first and foremost: take this review with a grain of salt and, once you've taken that grain of salt, take another.  Take as many as you please, for I am *not* a film aficionado, *nor* am I an expert in cameras.  I do, however, like things that are heavy and well-built, as well as things that have some history behind them.  So, therefore, I ***love*** this camera -- this Praktica MTL 5 B.
 
-![Camera image](/static/MTL5B_Post/Praktica_1.jpg)
-![Camera image](/static/MTL5B_Post/Praktica_2.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_1.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_2.jpg)
 If you want an in-depth review, look one up.  I can tell you from experience that there are lots of them out there.  I can't tell you about shutter speeds, or ISO (ASA / DIN on this camera), or how the aperture works, or what type of steel they used for the body, or whatever.  I *can* tell you, however, that this camera weighs about two pounds (which I love), has a leather wrap for a grip (which I love), and is 99% mechanical, which means that every time you do something with this camera, it makes a hefty and satisfying "ker-chunk" or "whirr" noise (which I love).  The camera was manufactured in 1985 in the German Democratic Republic -- colloquially known as "East Germany" -- which means it was tangentially Soviet.  And as I've come to realize, if there's two things I find cool as hell, it's German Engineering and Soviet Engineering.  This camera basically combines them both.
 
-![Camera image](/static/MTL5B_Post/Praktica_3.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_3.jpg)
 
 The particular eBay listing I purchased this camera from shipped from Morocco (which was cool in and of itself) and also included a lens and a case.  The lens ended up being a Helios 44M which, from what I can gather, is a pretty "standard" lens (note that "standard lens" might mean something different for each photographer).  From what I can tell, the lens is pretty similar to the "nifty fifty" 50mm lens, which makes sense as the Helios 44M is, as the name might suggest, a -- wait, a 58mm?  Not 44?  Sure, not what I expected.  It's still very close to 50mm, in any case, which explains why they look similar.
 
@@ -48,16 +48,16 @@ I do not currently know enough about bokeh or optical aberrations to describe th
 
 What I *can* tell you is that this lens was made in the USSR.  So that's cool.  Much like the camera it came with, it also has very satisfying mechanical innards.
 
-![Camera image](/static/MTL5B_Post/Praktica_4.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_4.jpg)
 
 The listing also came with an official Praktica camera case, which is super cool.  It's made of leather, as any good case would be, and features a screw on the bottom to attach to your camera where you'd normally attach a tripod -- in this way you can take off the cover and hang your camera around your neck instead of using a lanyard around the tiny lanyard-hole.
 
 
-![Camera image](/static/MTL5B_Post/Praktica_5.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_5.jpg)
 
-![Camera image](/static/MTL5B_Post/Praktica_6.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_6.jpg)
 
-![Camera image](/static/MTL5B_Post/Praktica_7.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_7.jpg)
 
 
 All-in-all, I think I struck gold.  As I've tested the camera, I can officially say that it is in good working condition, and is extremely clean.  The only thing that's broken is the mechanical timer, which I've read is the most breakable thing on this particular camera, so I'm not too broken up about that.  The whole listing only cost like $150 too, which is a lot cheaper than my original idea for a graduation present for myself -- a lightly used Kia Stinger.
@@ -73,7 +73,7 @@ As you'll see in the example photos below, I should focus more on adjusting the 
 
 When I took my first roll of film to be developed, I specifically asked the staff to alert me if the photos were way over- or under-exposed.  Thankfully, they were pretty spot-on, which means the light meter works well!  This is something I was fairly concerned about, because most places online recommended using a 1.3V zinc-air battery, which is a modern version of the now banned 1.3V mercury batteries.  These batteries are pricey and take a long time to ship.  Instead, I used a modern 1.5V LR44 button battery.
 
-![Camera image](/static/MTL5B_Post/Praktica_8.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_8.jpg)
 
 1.3V and 1.5V are close, but with a sensitive piece of equipment, they can actually make quite the difference.  Not so much because over-volting your camera's electronics by 0.2V is going to cause something to blow up, but moreso because of how the Wheatstone Bridge operates.  As I mentioned earlier, the Light Meter operates with a Wheatstone Bridge, which is a specific resistor configuration in a circuit which allows you to determine the resistance of an unknown element, as long as you know the resistance of the other three resistors in the Bridge, as well as the voltage being applied.  Look it up, it's pretty cool.  If you ever go to school for Electrical Engineering, you'll end up making one in one of your earlier classes.
 
@@ -84,42 +84,42 @@ Thankfully, the Praktica MTL 5 B takes the 1.5V button battery.  From what I can
 ## Example Shots
 I took these shots on Kodak Gold 200.  As I'm learning, I think I will start taking note of what aperture and shutter speed I'm at for each picture that I take.  I wish I had done that for these example photos, because then I'd know better how to fix it.  Generally speaking, though, I should probably keep my shutter speed about as fast as I can get it, because most of these turned out pretty shaky.
 
-![Camera image](/static/MTL5B_Post/Example1.jpg)
-![Camera image](/static/MTL5B_Post/Example2.jpg)
-![Camera image](/static/MTL5B_Post/Example3.jpg)
-![Camera image](/static/MTL5B_Post/Example4.jpg)
-![Camera image](/static/MTL5B_Post/Example5.jpg)
-![Camera image](/static/MTL5B_Post/Example6.jpg)
-![Camera image](/static/MTL5B_Post/Example7.jpg)
-![Camera image](/static/MTL5B_Post/Example8.jpg)
-![Camera image](/static/MTL5B_Post/Example9.jpg)
-![Camera image](/static/MTL5B_Post/Example10.jpg)
-![Camera image](/static/MTL5B_Post/Example11.jpg)
-![Camera image](/static/MTL5B_Post/Example12.jpg)
-![Camera image](/static/MTL5B_Post/Example13.jpg)
-![Camera image](/static/MTL5B_Post/Example14.jpg)
-![Camera image](/static/MTL5B_Post/Example15.jpg)
-![Camera image](/static/MTL5B_Post/Example16.jpg)
-![Camera image](/static/MTL5B_Post/Example17.jpg)
-![Camera image](/static/MTL5B_Post/Example18.jpg)
-![Camera image](/static/MTL5B_Post/Example19.jpg)
-![Camera image](/static/MTL5B_Post/Example20.jpg)
-![Camera image](/static/MTL5B_Post/Example21.jpg)
-![Camera image](/static/MTL5B_Post/Example22.jpg)
-![Camera image](/static/MTL5B_Post/Example23.jpg)
-![Camera image](/static/MTL5B_Post/Example24.jpg)
-![Camera image](/static/MTL5B_Post/Example25.jpg)
-![Camera image](/static/MTL5B_Post/Example26.jpg)
-![Camera image](/static/MTL5B_Post/Example27.jpg)
-![Camera image](/static/MTL5B_Post/Example28.jpg)
-![Camera image](/static/MTL5B_Post/Example29.jpg)
-![Camera image](/static/MTL5B_Post/Example30.jpg)
-![Camera image](/static/MTL5B_Post/Example31.jpg)
-![Camera image](/static/MTL5B_Post/Example32.jpg)
-![Camera image](/static/MTL5B_Post/Example33.jpg)
-![Camera image](/static/MTL5B_Post/Example34.jpg)
-![Camera image](/static/MTL5B_Post/Example35.jpg)
-![Camera image](/static/MTL5B_Post/Example36.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example1.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example2.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example3.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example4.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example5.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example6.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example7.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example8.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example9.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example10.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example11.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example12.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example13.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example14.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example15.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example16.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example17.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example18.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example19.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example20.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example21.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example22.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example23.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example24.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example25.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example26.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example27.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example28.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example29.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example30.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example31.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example32.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example33.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example34.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example35.jpg)
+![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Example36.jpg)
 
 ## Conclusion
 So there they are.  I like this camera a lot, and I think I made the right choice.  It helps that my Father-in-Law actually *is* a film aficionado -- and a well-trained one at that -- so maybe he can teach me a thing or two.  It'll make for good Father-in-Law / Son-in-Law bonding time.
