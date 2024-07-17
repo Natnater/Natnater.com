@@ -45,7 +45,8 @@ And so I ended up with a...
 ## Praktica MTL 5 B
 Let me make this clear, first and foremost: take this review with a grain of salt and, once you've taken that grain of salt, take another.  Take as many as you please, for I am *not* a film aficionado, *nor* am I an expert in cameras.  I do, however, like things that are heavy and well-built, as well as things that have some history behind them.  So, therefore, I ***love*** this camera -- this Praktica MTL 5 B.
 
-![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_1.jpg)
+
+![Camera image](post/Praktica_MTL_5_B/MTL5B_Post/Praktica_1.jpg)
 ![Camera image](/post/Praktica_MTL_5_B/MTL5B_Post/Praktica_2.jpg)
 If you want an in-depth review, look one up.  I can tell you from experience that there are lots of them out there.  I can't tell you about shutter speeds, or ISO (ASA / DIN on this camera), or how the aperture works, or what type of steel they used for the body, or whatever.  I *can* tell you, however, that this camera weighs about two pounds (which I love), has a leather wrap for a grip (which I love), and is 99% mechanical, which means that every time you do something with this camera, it makes a hefty and satisfying "ker-chunk" or "whirr" noise (which I love).  The camera was manufactured in 1985 in the German Democratic Republic -- colloquially known as "East Germany" -- which means it was tangentially Soviet.  And as I've come to realize, if there's two things I find cool as hell, it's German Engineering and Soviet Engineering.  This camera basically combines them both.
 
