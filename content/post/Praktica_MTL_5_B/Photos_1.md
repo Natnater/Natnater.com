@@ -17,7 +17,7 @@ categories:
   - Tech
   - Art
 ---
-As seen in [This post]({{< ref "/content/post/Praktica_MTL_5_B >}}), I got a new camera and have been learning how to use it.  The example photos in that post did not turn out super great, which is as I expected.  The purpose of that photoshoot was to: 
+As seen in [This post]({{< ref "/content/post/Praktica_MTL_5_B" >}}), I got a new camera and have been learning how to use it.  The example photos in that post did not turn out super great, which is as I expected.  The purpose of that photoshoot was to: 
 - See if the camera worked at all (it does), and
 - See if the light meter worked (it does!)
 
