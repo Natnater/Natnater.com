@@ -1,13 +1,20 @@
 ---
-layout:      post
-title:       "The Praktica MTL 5 B"
-subtitle:    "A Foray into Film"
-description: "In Which I Acquire a Taste for Film Photography"
-date:        2024-07-17
-author:      "Nate"
-image:       "/post/Praktica_MTL_5_B/MTL5B_Post/Example1.jpg"
-tags:        ["Photography", "Film", "Camera", "Art", "MTL 5 B"]
-categories:  ["Tech", "Art" ]
+layout: post
+title: A Foray into Film
+subtitle: Featuring the Praktica MTL 5 B
+description: In Which I Acquire a Taste for Film Photography
+date: 2024-07-17
+author: Nate
+image: /post/Praktica_MTL_5_B/MTL5B_Post/Example1.jpg
+tags:
+  - Photography
+  - Film
+  - Camera
+  - Art
+  - MTL_5_B
+categories:
+  - Tech
+  - Art
 ---
 
 
