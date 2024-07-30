@@ -26,7 +26,8 @@ Shortly after determining that the camera and light meter were functioning corre
 Obviously, not all of the shots turned out as I'd like, and the ones that I *do* like could be better, but here are my favorites:
 
 
-![Camera image](Photos_1/Photos_1_7.jpg)
+![Camera image](/Photos_1/Photos_1_7.jpg)
+
 This is what started the whole trip -- a week or two prior, I had driven south a ways and happened upon an old abandoned house.  Respectfully, I didn't venture inside (also, there was not enough light for good photos) but I wanted to get a shot of it anyway.
 
 ![Camera image](/post/Praktica_MTL_5_B/Photos_1/Photos_1_1.jpg)
