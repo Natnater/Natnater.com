@@ -16,6 +16,7 @@ tags:
 categories:
   - Tech
   - Art
+layout: post
 ---
 As seen in my previous post (note to self: learn how to hyperlink between pages in Hugo) I got a new camera and have been learning how to use it.  The example photos in that post did not turn out super great, which is as I expected.  The purpose of that photoshoot was to: 
 - See if the camera worked at all (it does), and
