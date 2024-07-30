@@ -5,7 +5,7 @@ subtitle: Featuring the Praktica MTL 5 B
 description: In Which I Acquire a Taste for Film Photography
 date: 2024-07-17
 author: Nate
-image: /post/Praktica_MTL_5_B/MTL5B_Post/Example1.jpg
+image: /post/Praktica_MTL_5_B/Example1.jpg
 tags:
   - Photography
   - Film
