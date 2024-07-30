@@ -4,7 +4,7 @@ subtitle: Shooting with the Dog
 description: In Which I Shoot an Old House
 date: 2024-07-29
 author: Nate
-image: /post/Praktica_MTL_5_B/Photos_1/Photos_1_7.jpg
+image: /content/post/Praktica_MTL_5_B/Photos_1/Photos_1_7.jpg
 tags:
   - MTL_5_B
   - Photography
