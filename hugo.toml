@@ -1,4 +1,4 @@
-baseurl = "https://natnater.com"
+baseurl = "https://natnater.com/content/"
 title = "Natnater"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Natnater</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://natnater.com/content/post/</link>
     <description>Recent content in Posts on Natnater</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://natnater.com/content/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First &#34;Real&#34; Photoshoot</title>
-      <link>http://localhost:1313/post/praktica_mtl_5_b/photos_1/</link>
+      <link>https://natnater.com/content/post/praktica_mtl_5_b/photos_post/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/praktica_mtl_5_b/photos_1/</guid>
-      <description>As seen in my previous post (note to self: learn how to hyperlink between pages in Hugo) I got a new camera and have been learning how to use it. The example photos in that post did not turn out super great, which is as I expected. The purpose of that photoshoot was to:&#xA;See if the camera worked at all (it does), and See if the light meter worked (it does!</description>
+      <guid>https://natnater.com/content/post/praktica_mtl_5_b/photos_post/</guid>
+      <description>Test As seen in my previous post (note to self: learn how to hyperlink between pages in Hugo) I got a new camera and have been learning how to use it. The example photos in that post did not turn out super great, which is as I expected. The purpose of that photoshoot was to:&#xA;See if the camera worked at all (it does), and See if the light meter worked (it does!</description>
     </item>
     <item>
       <title>Grammar Quest -- An Adventure in Proofreading</title>
-      <link>http://localhost:1313/post/proofreading/grammar-quest----an-adventure-in-proofreading/</link>
+      <link>https://natnater.com/content/post/proofreading/grammar-quest----an-adventure-in-proofreading/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/proofreading/grammar-quest----an-adventure-in-proofreading/</guid>
+      <guid>https://natnater.com/content/post/proofreading/grammar-quest----an-adventure-in-proofreading/</guid>
       <description>Prologue Look, I&amp;rsquo;m a reasonable guy. Everyone makes mistakes &amp;ndash; myself least of all &amp;ndash; so I don&amp;rsquo;t expect anything in life to be perfect. Except, well&amp;hellip;&#xA;I do expect large corporations to do a couple of once-overs on their documents before they push them to the public to ensure that there are no weird linguistic or formatting errors. All I&amp;rsquo;m asking is for documents presented by any organization larger than, say, ten people, to be utterly perfect.</description>
     </item>
     <item>
       <title>A Foray into Film</title>
-      <link>http://localhost:1313/post/praktica_mtl_5_b/praktica_mtl_5_b/</link>
+      <link>https://natnater.com/content/post/praktica_mtl_5_b/praktica_mtl_5_b/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/praktica_mtl_5_b/praktica_mtl_5_b/</guid>
+      <guid>https://natnater.com/content/post/praktica_mtl_5_b/praktica_mtl_5_b/</guid>
       <description>Prologue A while back, a couple of friends from Norway visited us here stateside. I took them to a couple of thrift stores and, while shopping, one of the friends found a little Kodak Duaflex camera &amp;ndash; a very small film camera that uses Kodak 620 film (now not produced, but that&amp;rsquo;s a whole other story), features a top-down viewfinder, and creates a nice film photography vibe.&#xA;I had always considered myself an amateur photographer (and by this I mean someone who likes to do more than just take pictures with a phone, though I do quite love the cameras on my S22 Ultra &amp;ndash; main reason I bought the thing), but seeing her shoot film, and seeing the results, really tickled some part of me deep within my brain &amp;ndash; the part of me that prefers synthesizers over MIDI controllers, Computer Engineering over Computer Science, VHS over Vimeo, and (apparently) film over digital photography.</description>
     </item>
     <item>
       <title>Time Block Book</title>
-      <link>http://localhost:1313/post/time-block-book/</link>
+      <link>https://natnater.com/content/post/time-block-book/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/time-block-book/</guid>
+      <guid>https://natnater.com/content/post/time-block-book/</guid>
       <description>At the moment, this is just a test. print(&amp;#34;hello world!&amp;#34;) </description>
     </item>
     <item>
       <title>Obsidian carryover?</title>
-      <link>http://localhost:1313/post/test/</link>
+      <link>https://natnater.com/content/post/test/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/test/</guid>
+      <guid>https://natnater.com/content/post/test/</guid>
       <description>Following this video: https://www.youtube.com/watch?v=LIFvgrRxdt4&#xA;&amp;gt; cd https://github.com/Natnater/Blog.git&#xD;&amp;gt; cd Blog&#xD;&amp;gt; hugo new site Natnater&#xD;&amp;gt; cd Natnater I ran into an issue with the config file &amp;ldquo;hugo.toml&amp;rdquo; in which I attempted to name my blog &amp;ldquo;Natnater&amp;rsquo;s Blog.&amp;rdquo; The issue arose because I coded the config like this:&#xA;&amp;gt; title = &amp;#39;Natnater&amp;#39;s Blog&amp;#39; instead of this:&#xA;&amp;gt; title = &amp;#34;Natnater&amp;#39;s Blog&amp;#34; New Post To make a new post, from the main git page &amp;ldquo;\NBlog\Natnater&amp;rdquo; I type:</description>
     </item>
   </channel>
