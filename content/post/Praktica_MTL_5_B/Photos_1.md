@@ -30,7 +30,7 @@ Obviously, not all of the shots turned out as I'd like, and the ones that I *do*
 
 This is what started the whole trip -- a week or two prior, I had driven south a ways and happened upon an old abandoned house.  Respectfully, I didn't venture inside (also, there was not enough light for good photos) but I wanted to get a shot of it anyway.
 
-![Camera image](/post/Praktica_MTL_5_B/Photos_1/Photos_1_1.jpg)
+![Image_of_River](/post/Praktica_MTL_5_B/Photos_1/Photos_1_1.jpg)
 This one turned out quite desaturated.  I'm assuming this is because the river was so bright (reflections of the sun around 6pm).  The river was also extremely flooded and flowing quite quickly, and this bridge was very old and narrow, which was a bit nerve-wracking.  All-in-all, I like how it turned out, though I need to learn how to shoot in extreme brightness.
 
 ![Camera image](/post/Praktica_MTL_5_B/Photos_1/Photos_1_2.jpg)
