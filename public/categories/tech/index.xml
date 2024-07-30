@@ -6,10 +6,17 @@
     <description>Recent content in Tech on Natnater</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Praktica MTL 5 B</title>
+      <title>First &#34;Real&#34; Photoshoot</title>
+      <link>http://localhost:1313/post/praktica_mtl_5_b/photos_1/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/praktica_mtl_5_b/photos_1/</guid>
+      <description>As seen in my previous post (note to self: learn how to hyperlink between pages in Hugo) I got a new camera and have been learning how to use it. The example photos in that post did not turn out super great, which is as I expected. The purpose of that photoshoot was to:&#xA;See if the camera worked at all (it does), and See if the light meter worked (it does!</description>
+    </item>
+    <item>
+      <title>A Foray into Film</title>
       <link>http://localhost:1313/post/praktica_mtl_5_b/praktica_mtl_5_b/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/praktica_mtl_5_b/praktica_mtl_5_b/</guid>
@@ -63,13 +70,6 @@
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2018/05/23/istio-auto-injection-with-webhook/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kubernets 1.9版本引入了Admission Webhook(web 回调)扩展机制，通过Webhook,开发者可以非常灵活地对Kubernets API Server的功能进行扩展，在API Server创建资源时对资源进行验证或者修改。&lt;/p&gt;&#xA;&lt;p&gt;使用webhook的优势是不需要对API Server的源码进行修改和重新编译就可以扩展其功能。插入的逻辑实现为一个独立的web进程，通过参数方式传入到kubernets中，由kubernets在进行自身逻辑处理时对扩展逻辑进行回调。&lt;/p&gt;&#xA;&lt;p&gt;Istio 0.7版本就利用了Kubernets webhook实现了sidecar的自动注入。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>使用Algolia为Gitpage博客提供站内搜索</title>
-      <link>http://localhost:1313/2018/05/21/algolia-integration-with-jekyll/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2018/05/21/algolia-integration-with-jekyll/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This series of articles are my notes of &amp;ldquo;Bitcoin and Cryptocurrency Technologies&amp;rdquo; online course.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;table-of-content&#34;&gt;Table of Content&lt;/h2&gt;&#xA;&lt;p&gt;{:.no_toc}&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Table of Content&#xA;{:toc}&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;scrooge-coin-transaction&#34;&gt;Scrooge Coin Transaction&lt;/h2&gt;&#xA;&lt;p&gt;Scrooge Coin programming assignment is a little bit tricky, the video of this lesson hasn&amp;rsquo;t explained some implementation details. To help you understand the transaction data structure used in Scrooge Coin, I draw this diagram:&#xA;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/img/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png&#34; alt=&#34;Scrooge Coin&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Helm介绍</title>
