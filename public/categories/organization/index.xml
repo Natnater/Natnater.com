@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organization on Natnater</title>
-    <link>https://natnater.com/categories/organization/</link>
+    <link>http://localhost:1313/categories/organization/</link>
     <description>Recent content in Organization on Natnater</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://natnater.com/categories/organization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/organization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian carryover?</title>
-      <link>https://natnater.com/post/test/</link>
+      <link>http://localhost:1313/post/test/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://natnater.com/post/test/</guid>
+      <guid>http://localhost:1313/post/test/</guid>
       <description>Following this video: https://www.youtube.com/watch?v=LIFvgrRxdt4&#xA;&amp;gt; cd https://github.com/Natnater/Blog.git&#xD;&amp;gt; cd Blog&#xD;&amp;gt; hugo new site Natnater&#xD;&amp;gt; cd Natnater I ran into an issue with the config file &amp;ldquo;hugo.toml&amp;rdquo; in which I attempted to name my blog &amp;ldquo;Natnater&amp;rsquo;s Blog.&amp;rdquo; The issue arose because I coded the config like this:&#xA;&amp;gt; title = &amp;#39;Natnater&amp;#39;s Blog&amp;#39; instead of this:&#xA;&amp;gt; title = &amp;#34;Natnater&amp;#39;s Blog&amp;#34; New Post To make a new post, from the main git page &amp;ldquo;\NBlog\Natnater&amp;rdquo; I type:</description>
     </item>
   </channel>

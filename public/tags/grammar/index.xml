@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grammar on Natnater</title>
-    <link>https://natnater.com/tags/grammar/</link>
+    <link>http://localhost:1313/tags/grammar/</link>
     <description>Recent content in Grammar on Natnater</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://natnater.com/tags/grammar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/grammar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grammar Quest -- An Adventure in Proofreading</title>
-      <link>https://natnater.com/post/proofreading/grammar-quest----an-adventure-in-proofreading/</link>
+      <link>http://localhost:1313/post/proofreading/grammar-quest----an-adventure-in-proofreading/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://natnater.com/post/proofreading/grammar-quest----an-adventure-in-proofreading/</guid>
+      <guid>http://localhost:1313/post/proofreading/grammar-quest----an-adventure-in-proofreading/</guid>
       <description>Prologue Look, I&amp;rsquo;m a reasonable guy. Everyone makes mistakes &amp;ndash; myself least of all &amp;ndash; so I don&amp;rsquo;t expect anything in life to be perfect. Except, well&amp;hellip;&#xA;I do expect large corporations to do a couple of once-overs on their documents before they push them to the public to ensure that there are no weird linguistic or formatting errors. All I&amp;rsquo;m asking is for documents presented by any organization larger than, say, ten people, to be utterly perfect.</description>
     </item>
   </channel>
