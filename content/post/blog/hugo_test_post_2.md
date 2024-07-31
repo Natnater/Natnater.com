@@ -197,7 +197,7 @@ X^2
 
 # Interlink
 
-![webcomics post](August24)
+![webcomics post](August24/August24)
 ### Table
 
 ```Table

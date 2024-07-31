@@ -26,7 +26,7 @@ As seen in my previous post (note to self: learn how to hyperlink between pages 
 
 Shortly after determining that the camera and light meter were functioning correctly, I opted to set out and use up one roll of Kodak Gold 200.  I then sent it off to Reformed Film Labs, who did a wonderful job developing the film.
 
-Obviously, not all of the shots turned out as I'd like, and the ones that I *do* like could be better, but here are my favorites:
+Obviously, not all of the shots turned out as I'd like, and the ones that I *do* like could be better, but here are my favorites:  
 
 ![Camera image](/post/photo_session_one/photo_session_one/Photos_1_7.jpg)
 This is what started the whole trip -- a week or two prior, I had driven south a ways and happened upon an old abandoned house.  Respectfully, I didn't venture inside (also, there was not enough light for good photos) but I wanted to get a shot of it anyway.
