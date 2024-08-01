@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:site_name" content="Natnater">
+    <meta property="og:type" content="article">
+
+    
+    <meta property="og:image" content="https://natnater.com//img/main-bg-circuit.jpg">
+    <meta property="twitter:image" content="https://natnater.com//img/main-bg-circuit.jpg" />
+    
+
+    
+    <meta name="title" content="An Example Post" />
+    <meta property="og:title" content="An Example Post" />
+    <meta property="twitter:title" content="An Example Post" />
+    
+
+    
+    <meta name="description" content="In Which I Test Some Markdown">
+    <meta property="og:description" content="In Which I Test Some Markdown" />
+    <meta property="twitter:description" content="In Which I Test Some Markdown" />
+    
+
+    
+    <meta property="twitter:card" content="summary" />
+    
+    
+
+    <meta name="keyword"  content="keyword1, keyword2, keyword3">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>An Example Post | Natnater&#39;s Blog</title>
+
+    <link rel="canonical" href="/post/blog/hugo_test_post_2/">
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    
+    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.min.css">
+
+    
+    <link rel="stylesheet" href="/css/zanshang.css">
+
+    
+    <link rel="stylesheet" href="/css/font-awesome.all.min.css">
+
+    
+    
+
+    
+    <script src="/js/jquery.min.js"></script>
+
+    
+    <script src="/js/bootstrap.min.js"></script>
+
+    
+    <script src="/js/hux-blog.min.js"></script>
+
+    
+    <script src="/js/lazysizes.min.js"></script>
+
+    
+    
+
+</head>
+
+
+
+
+
+
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+
+    <div class="container-fluid">
+        
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Natnater</a>
+        </div>
+
+        
+        
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">All Posts</a>
+                    </li>
+                    
+                        
+                        <li>
+                            <a href="/categories/art/">art</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/daily-doodles/">daily doodles</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/literature/">literature</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/tech/">tech</a>
+                        </li>
+                        
+                    
+                    
+		    
+                        <li><a href="/archive//">ARCHIVE</a></li>
+                    
+                        <li><a href="/about//">ABOUT</a></li>
+                    
+		            <li>
+                        <a href="/search"><i class="fa fa-search"></i></a>
+		           </li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    
+</nav>
+<script>
+    
+    
+    
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    $toggle.addEventListener('click', handleMagic)
+    function handleMagic(e){
+        if ($navbar.className.indexOf('in') > 0) {
+        
+            $navbar.className = " ";
+            
+            setTimeout(function(){
+                
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        }else{
+        
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+</script>
+
+
+
+
+<style type="text/css">
+    header.intro-header {
+        background-image: url('/img/main-bg-circuit.jpg')
+    }
+</style>
+
+<header class="intro-header" >
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/blog" title="Blog">
+                            Blog
+                        </a>
+                        
+                        <a class="tag" href="/tags/code" title="code">
+                            code
+                        </a>
+                        
+                        <a class="tag" href="/tags/programming" title="programming">
+                            programming
+                        </a>
+                        
+                        <a class="tag" href="/tags/organization" title="organization">
+                            organization
+                        </a>
+                        
+                    </div>
+                    <h1>An Example Post</h1>
+                    <h2 class="subheading">Listen, I&#39;m new to this</h2>
+                    <span class="meta">
+                        
+                            Posted by 
+                            
+                                Nate
+                             
+                            on 
+                            Wednesday, July 31, 2024
+                            
+                            
+                            
+                            
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+<article>
+    <div class="container">
+        <div class="row">
+
+            
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                
+                <h1 id="prologue">Prologue</h1>
+<p>Just testing some markdown stuff to see how it works with Hugo.  May delete this later, or may keep it as a reference.</p>
+<p>For the record, I write my Markdown in Obsidian so I get a bit of a WYSIWYG thing going on &ndash; I know the whole point of Markdown is that it&rsquo;s supposed to be readable on its own, but hey &ndash; don&rsquo;t judge me :)</p>
+<p>One of these days I&rsquo;ll learn some HTML.  I must be the only Hugo-based blog on the net being run by someone who doesn&rsquo;t come from a web design background (at least from what I&rsquo;ve seen).</p>
+<h1 id="tests">Tests</h1>
+<p>Obviously I have headers figured out.</p>
+<pre tabindex="0"><code class="language-Headers" data-lang="Headers"># Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+Alt Header 1
+---
+
+Alt Header 2
+===
+</code></pre><h1 id="header-1">Header 1</h1>
+<h2 id="header-2">Header 2</h2>
+<h3 id="header-3">Header 3</h3>
+<h4 id="header-4">Header 4</h4>
+<h5 id="header-5">Header 5</h5>
+<h6 id="header-6">Header 6</h6>
+<h2 id="alt-header-1-three--">Alt Header 1 (three -)</h2>
+<h2 id="alt-header-2-two--">Alt Header 2 (two -)</h2>
+<h1 id="alt-header-3-three-">Alt Header 3 (three =)</h1>
+<h1 id="alt-header-4-two-">Alt Header 4 (two =)</h1>
+<pre tabindex="0"><code>line break
+---
+</code></pre><hr>
+<pre tabindex="0"><code class="language-Quotes" data-lang="Quotes">&gt; Hello
+&gt; There
+</code></pre><blockquote>
+<p>Hello
+There</p>
+</blockquote>
+<blockquote>
+<p>Nesting</p>
+<blockquote>
+<p>Quotes</p>
+<blockquote>
+<p>Is</p>
+<blockquote>
+<p>Fun
+Yes
+It
+Is</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<pre tabindex="0"><code class="language-Tags" data-lang="Tags">#Tags
+(might just be an obsidian thing)
+</code></pre><p>#Blog</p>
+<pre tabindex="0"><code class="language-External" data-lang="External">[External Link](http://example.com/)
+[example] [id]
+[^id]: http://example.com/ &#34;Title&#34;
+
+Text[^2]
+[^2]:http://example.com/
+</code></pre><p><a href="http://example.com/">External Link</a></p>
+<p>[example] [id]</p>
+<p>Text<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<pre tabindex="0"><code class="language-External" data-lang="External">[Natnater](http://Natnater.com/ &#34;A great blog&#34;) &lt;- hover over link
+
+&lt;http://Natnater.com&gt;
+</code></pre><p><a href="http://Natnater.com/" title="A great blog">Natnater</a>
+<a href="http://Natnater.com">http://Natnater.com</a></p>
+<p>[Heading ID](#Header 1)</p>
+<h3 id="internal-links">Internal Links</h3>
+<pre tabindex="0"><code class="language-internal_links" data-lang="internal_links">[Photo Session 1](/post/photo_session_one/photo_session_one.md)
+
+[Photo Session 1](/content/post/photo_session_one/photo_session_one.md)
+
+[Photo Session 1](content/post/photo_session_one/photo_session_one.md)
+</code></pre><p><a href="/post/photo_session_one/photo_session_one.md">Photo Session 1</a></p>
+<p><a href="/content/post/photo_session_one/photo_session_one.md">Photo Session 1</a></p>
+<p><a href="content/post/photo_session_one/photo_session_one.md">Photo Session 1</a></p>
+<h3 id="definition-list">Definition List</h3>
+<dl>
+<dt>First term</dt>
+<dd>This is the definition of the first term.</dd>
+<dt>Second Term</dt>
+<dd>This is one definition.</dd>
+<dd>This is another.</dd>
+</dl>
+<pre tabindex="0"><code class="language-footnotes" data-lang="footnotes">[^3]footnote paragraph
+	plz
+</code></pre><pre><code>[^3]:footnote paragraph plz
+
+Code block (just indent)
+print(&quot;hello world&quot;)
+</code></pre>
+<p><code>surround word with single backtick for inline code</code> like this</p>
+<pre tabindex="0"><code class="language-Title" data-lang="Title">triple backticks for longer code blocks like this, with a title at the end of the first set of backticks
+</code></pre><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">print</span>(<span style="color:#f1fa8c">&#34;instead of a title, use the name of a programming / scripting language to get colors out of it&#34;</span>)
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-C" data-lang="C"><span style="display:flex;"><span><span style="color:#ff79c6">for</span> i <span style="color:#ff79c6">==</span> <span style="color:#bd93f9">2</span>{
+</span></span><span style="display:flex;"><span>	x <span style="color:#ff79c6">=</span> <span style="color:#f1fa8c">&#34;I don&#39;t like C&#34;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><pre tabindex="0"><code class="language-Formatting" data-lang="Formatting">**BOLD**
+*ITALIC*
+~~STRIKETHROUGH~~
+==HIGHLIGHT==
+~~==***ALL OF THE ABOVE==***~~
+</code></pre><p><strong>BOLD</strong>
+<em>ITALIC</em>
+<del>STRIKETHROUGH</del>
+==HIGHLIGHT==
+<del>==<em><strong>ALL OF THE ABOVE==</strong></em></del></p>
+<pre tabindex="0"><code class="language-Subscript" data-lang="Subscript">H~2~O
+X^2^
+X^2
+</code></pre><p>H<del>2</del>O
+X^2^
+X^2</p>
+<h3 id="task-list">Task list</h3>
+<pre tabindex="0"><code class="language-Task" data-lang="Task">- [ ]Task 1
+- [x] Task 2 
+- [?] Task 3
+- [*] Task 4
+- [ ] Task 5
+</code></pre><ul>
+<li><input disabled="" type="checkbox"> Task 1</li>
+<li><input checked="" disabled="" type="checkbox"> Task 2</li>
+<li>[?] Task 3</li>
+<li>[*] Task 4</li>
+<li><input disabled="" type="checkbox"> Task 5</li>
+</ul>
+<h1 id="interlink">Interlink</h1>
+<p>
+  <img src="August24/August24" alt="webcomics post">
+
+</p>
+<h3 id="table">Table</h3>
+<pre tabindex="0"><code class="language-Table" data-lang="Table">
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
+|          | Cell 4   |
+</code></pre><table>
+<thead>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cell 1</td>
+<td>Cell 2</td>
+</tr>
+<tr>
+<td></td>
+<td>Cell 4</td>
+</tr>
+</tbody>
+</table>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><a href="http://example.com/">http://example.com/</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+
+                
+
+                
+                <hr>
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/post/webcomics/august24/august24/" data-toggle="tooltip" data-placement="top" title="Webcomics - August 2024">&larr;
+                            Previous Post</a>
+                    </li>
+                    
+                    
+                </ul>
+                
+
+                
+
+
+            </div>
+
+            
+            
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
+            </div>
+            
+
+            
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                
+                
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/art" title="art">
+                            art
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/camera" title="camera">
+                            camera
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/film" title="film">
+                            film
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/mtl_5_b" title="mtl_5_b">
+                            mtl_5_b
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/photography" title="photography">
+                            photography
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </section>
+                
+
+                
+                
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">                  
+                    
+                    <li>
+                        <a href="mailto:njdevender&#43;blog@gmail.com">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		           
+                    
+                    
+                    
+                    
+
+		            
+                    
+                    
+                    
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/nathaniel-van-devender-6a9b6a298">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		           
+                    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+           
+             </ul>
+		<p class="copyright text-muted">
+                    Copyright &copy; Natnater 2024
+                    
+                    <br>
+                    <a href="https://themes.gohugo.io/hugo-theme-cleanwhite">CleanWhite Hugo Theme</a> by <a href="https://zhaohuabing.com">Huabing</a> |
+                    <iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=zhaohuabing&repo=hugo-theme-cleanwhite&type=star&count=true" >
+                    </iframe>
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script>
+    function loadAsync(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+
+
+
+
+
+<script>
+    
+    if($('#tag_cloud').length !== 0){
+        loadAsync("/js/jquery.tagcloud.js",function(){
+            $.fn.tagcloud.defaults = {
+                
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+
+<script>
+    loadAsync("https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+    function generateCatalog(selector) {
+
+        
+        
+        
+        
+            _containerSelector = 'div.post-container'
+        
+
+        
+        var P = $(_containerSelector), a, n, t, l, i, c;
+        a = P.find('h1,h2,h3,h4,h5,h6');
+
+        
+        $(selector).html('')
+
+        
+        a.each(function () {
+            n = $(this).prop('tagName').toLowerCase();
+            i = "#" + $(this).prop('id');
+            t = $(this).text();
+            c = $('<a href="' + i + '" rel="nofollow">' + t + '</a>');
+            l = $('<li class="' + n + '_nav"></li>').append(c);
+            $(selector).append(l);
+        });
+        return true;
+    }
+
+    generateCatalog(".catalog-body");
+
+    
+    $(".catalog-toggle").click((function (e) {
+        e.preventDefault();
+        $('.side-catalog').toggleClass("fold")
+    }))
+
+    
+
+
+    loadAsync("\/js\/jquery.nav.js", function () {
+        $('.catalog-body').onePageNav({
+            currentClass: "active",
+            changeHash: !1,
+            easing: "swing",
+            filter: "",
+            scrollSpeed: 700,
+            scrollOffset: 0,
+            scrollThreshold: .2,
+            begin: null,
+            end: null,
+            scrollChange: null,
+            padding: 80
+        });
+    });
+</script>
+
+
+
+
+
+
+</body>
+</html>

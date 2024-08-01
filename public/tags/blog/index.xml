@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Natnater</title>
+    <link>https://natnater.com/tags/blog/</link>
+    <description>Recent content in Blog on Natnater</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://natnater.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Example Post</title>
+      <link>https://natnater.com/post/blog/hugo_test_post_2/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://natnater.com/post/blog/hugo_test_post_2/</guid>
+      <description>Prologue Just testing some markdown stuff to see how it works with Hugo. May delete this later, or may keep it as a reference.&#xA;For the record, I write my Markdown in Obsidian so I get a bit of a WYSIWYG thing going on &amp;ndash; I know the whole point of Markdown is that it&amp;rsquo;s supposed to be readable on its own, but hey &amp;ndash; don&amp;rsquo;t judge me :)&#xA;One of these days I&amp;rsquo;ll learn some HTML.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Natnater</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://natnater.com/categories/</link>
     <description>Recent content in Categories on Natnater</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://natnater.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/categories/art/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/art/</guid>
+      <link>https://natnater.com/categories/art/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://natnater.com/categories/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Doodles</title>
+      <link>https://natnater.com/categories/daily-doodles/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://natnater.com/categories/daily-doodles/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tech/</guid>
+      <link>https://natnater.com/categories/tech/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://natnater.com/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Literature</title>
-      <link>http://localhost:1313/categories/literature/</link>
+      <link>https://natnater.com/categories/literature/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/literature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>http://localhost:1313/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/life/</guid>
+      <guid>https://natnater.com/categories/literature/</guid>
       <description></description>
     </item>
   </channel>

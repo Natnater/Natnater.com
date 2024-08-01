@@ -1,7 +1,7 @@
 ---
 title: Webcomics - August 2024
 subtitle: Daily Doodles from August '24
-description: ""
+description: I wanted to be a Cartoonist as a kid.
 date: 2024-07-31
 author: Nate
 image: ""
@@ -19,3 +19,6 @@ When designing my Time Block journal for work, I included a 4-panel "Daily Doodl
 
 # 07/31/24
 ![07/31/24](/post/webcomics/August24/07_31_24.jpg)
+
+# 08/01/24
+![07/31/24](/post/webcomics/August24/08_01_24.jpg)
