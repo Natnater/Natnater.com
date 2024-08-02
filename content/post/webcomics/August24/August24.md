@@ -22,3 +22,5 @@ When designing my Time Block journal for work, I included a 4-panel "Daily Doodl
 
 # 08/01/24
 ![07/31/24](/post/webcomics/August24/08_01_24.jpg)
+# 08/02/24
+![07/31/24](/post/webcomics/August24/08_02_24.jpg)
